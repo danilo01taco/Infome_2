@@ -10,9 +10,17 @@
 ### 1.Objetivos
 ***Objetivo general de la practica***
 
+_Comprobar experimentalmente el Análisis de Mallas._
+
 ***Objetivos especificos***
 
+_*Desarrollar el circuito propuesto analizando correctamente cada elemento aplicando así conocimientos sobre Análisis de Mallas._
+
+_*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito._
+
 ### 2.Marco Teorico 
+
+![image](https://user-images.githubusercontent.com/84418933/122082303-83e4e680-cdc5-11eb-921c-850abc62867d.png)
 
 ### 3.Explicacion
 
@@ -51,6 +59,8 @@ _Debemos transformer todas las resistencias en una sola unidad de medida en el c
 ### Conclusiones
 
 ### Bibliografia 
+
+_Khan Academy. (s. f.). El método de la corriente de malla (artículo). Recuperado 15 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method._
 
 ### Repositorio Git
 
