@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85728185/121998054-e2cc4080-cd70-11eb-8c9c-eebefc1e4de7.png)
 
-## ANÁLISIS_DE_MALLAS
+## ANÁLISIS DE MALLAS
 
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
