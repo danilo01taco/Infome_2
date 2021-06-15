@@ -16,7 +16,7 @@ Comprobar experimentalmente el análisis de mallas.
 
 *Analizar las corrientes que pasan por cada malla.
 
-*Determinar los valores medidos en el simulador se correctos para realizar los cálculos
+*Determinar los valores medidos en el simulador se correctos para realizar los cálculos.
 
 *Desarrollar el circuito propuesto analizando correctamente cada elemento aplicando así conocimientos sobre Análisis de Mallas.
 
