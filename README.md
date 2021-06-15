@@ -10,20 +10,9 @@
 ### 1.Objetivos
 ***Objetivo general de la practica***
 
-_Comprobar experimentalmente el Análisis de Mallas._
-
 ***Objetivos especificos***
 
-_*Desarrollar el circuito propuesto analizando correctamente cada elemento aplicando así conocimientos sobre Análisis de Mallas._
-
-_*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito._
-
-_*Comparar los resultados de la tabla identificado si existe o no variacion entre los valores expuestos._
-
-
 ### 2.Marco Teorico 
-
-![image](https://user-images.githubusercontent.com/84418933/122083771-c5c25c80-cdc6-11eb-8dc7-8379c636abbb.png)
 
 ### 3.Explicacion
 
@@ -53,7 +42,21 @@ _Debemos transformer todas las resistencias en una sola unidad de medida en el c
 
 ![image](https://user-images.githubusercontent.com/85728185/122078646-5cd8e580-cdc2-11eb-8ec3-0d4e618206d2.png)
 
-##  PLANTEAMIENTO DE LAS ECUACIONES
+## PLANTEAMIENTO DE ECUACIONES
+
+_Una vez ya tomado en cuenta las diferentes corrientes de las mallas del circuito procedemos a plantear la ecuación en este caso son tres ecuaciones una de calla malla._
+
+***Malla 1***
+
+![image](https://user-images.githubusercontent.com/85728185/122082848-f5249980-cdc5-11eb-875e-3fb70a881526.png)
+
+***Malla 2***
+
+![image](https://user-images.githubusercontent.com/85728185/122084517-82b4b900-cdc7-11eb-81b0-9674d0a6179d.png)
+
+***Malla 3***
+
+![image](https://user-images.githubusercontent.com/85728185/122085763-a88e8d80-cdc8-11eb-8d25-a00e5ddf7dad.png)
 
 ### 4.Resultados
 
@@ -62,8 +65,6 @@ _Debemos transformer todas las resistencias en una sola unidad de medida en el c
 ### Conclusiones
 
 ### Bibliografia 
-
-_Khan Academy. (s. f.). El método de la corriente de malla (artículo). Recuperado 15 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method._
 
 ### Repositorio Git
 
