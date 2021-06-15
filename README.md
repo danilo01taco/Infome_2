@@ -50,9 +50,9 @@ _3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador el cir
 
 _3.2.4 Compare los valores de la tabla  y realice sus conclusiones__
 
-![image](https://user-images.githubusercontent.com/85728185/122001334-ce3e7700-cd75-11eb-8d73-76d79915dcfa.png)
+![image](https://user-images.githubusercontent.com/85728185/122101428-e6e07880-cdd9-11eb-8cdd-4163eccd5e2b.png)
 
-_Debemos transformar todas las resistencias  en una sola unidad de medida en el cual se convierte de  kΩ a Ω._
+_Debemos transformar todas las resistencias en una sola unidad de medida en el cual se convierte de kΩ a Ω._
 
 ![image](https://user-images.githubusercontent.com/85728185/122078646-5cd8e580-cdc2-11eb-8ec3-0d4e618206d2.png)
 
