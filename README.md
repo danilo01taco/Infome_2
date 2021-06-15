@@ -11,6 +11,13 @@
 ***Objetivo general de la practica***
 
 ***Objetivos especificos***
+*Analizar las corrientes que pasan por cada malla
+
+*Desarrollar el circuito propuesto analizando correctamente cada elemento aplicando así conocimientos sobre Análisis de Mallas.
+
+*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito.
+
+*Comparar los resultados de la tabla identificado si existe o no variacion entre los valores expuestos.
 
 ### 2.Marco Teorico 
 
@@ -57,10 +64,6 @@ _Una vez ya tomado en cuenta las diferentes corrientes de las mallas del circuit
 ***Malla 3***
 
 ![image](https://user-images.githubusercontent.com/85728185/122085763-a88e8d80-cdc8-11eb-8d25-a00e5ddf7dad.png)
-
-_Sistema de ecuaciones_
-
-![image](https://user-images.githubusercontent.com/85728185/122087295-2d2ddb80-cdca-11eb-87e9-77598f7eb407.png)
 
 ### 4.Resultados
 
