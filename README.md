@@ -76,6 +76,15 @@ _Sistema de ecuaciones_
 
 ![image](https://user-images.githubusercontent.com/85728185/122088632-89452f80-cdcb-11eb-96c0-62dd03e259e0.png)
 
+_Con la ayyuda de la calculadora de sistema de ecuaciones obtenemos los siguinetes valores:_
+
+![image](https://user-images.githubusercontent.com/85728185/122090205-23f23e00-cdcd-11eb-97b3-b3b553b2660e.png)
+
+_Como las resistencias las trabajamos en ohms nos da la medición en Amperios, para no tener valores tan extensos la transformamos a mA._
+
+![image](https://user-images.githubusercontent.com/85728185/122090656-9fec8600-cdcd-11eb-86c2-a92840acf23b.png)
+
+
 ### 4.Resultados
 
 ### Video
