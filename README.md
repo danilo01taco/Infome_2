@@ -70,6 +70,10 @@ _Una vez ya tomado en cuenta las diferentes corrientes de las mallas del circuit
 
 ![image](https://user-images.githubusercontent.com/85728185/122085763-a88e8d80-cdc8-11eb-8d25-a00e5ddf7dad.png)
 
+_Sistema de ecuaciones_
+
+![image](https://user-images.githubusercontent.com/85728185/122088632-89452f80-cdcb-11eb-96c0-62dd03e259e0.png)
+
 ### 4.Resultados
 
 ### Video
