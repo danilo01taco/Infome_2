@@ -23,7 +23,7 @@ _*Comparar los resultados de la tabla identificado si existe o no variacion entr
 
 ### 2.Marco Teorico 
 
-![image](https://user-images.githubusercontent.com/84418933/122082303-83e4e680-cdc5-11eb-921c-850abc62867d.png)
+![image](https://user-images.githubusercontent.com/84418933/122083771-c5c25c80-cdc6-11eb-8dc7-8379c636abbb.png)
 
 ### 3.Explicacion
 
