@@ -13,6 +13,10 @@
 
 ### 3.Explicacion
 
+***3.1 Material y equipo requerido***
+
+![image](https://user-images.githubusercontent.com/85728185/121991187-cde9b000-cd64-11eb-9b45-11bdf3d85c11.png)
+
 ### 4.Resultados
 
 ### Video
