@@ -23,6 +23,10 @@ _3.2.1 Implemente el circuito que se presenta en la figura 2.1._
 
 ![image](https://user-images.githubusercontent.com/85728185/121991666-c24ab900-cd65-11eb-93ad-be6823ad0597.png)
 
+_3.2.2 Mida cada una de las corrientes de malla y anote los resultados en la tabla 
+
+![image](https://user-images.githubusercontent.com/85728185/121994868-a9450680-cd6b-11eb-9748-774b6fc0de41.png)
+
 ### 4.Resultados
 
 ### Video
