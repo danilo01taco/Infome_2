@@ -89,6 +89,8 @@ _Como las resistencias las trabajamos en ohms nos da la medición en Amperios, p
 
 ### Video
 
+https://youtu.be/3_GIQegJDZQ
+
 ### Conclusiones
 
 _*Al realizar el análisis de malla al circuito, identificamos cada componente y sus partes, y separando cada malla observamos que nos facilita la obtención los resultados del circuito._
