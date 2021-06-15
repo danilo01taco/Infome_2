@@ -26,6 +26,8 @@ Comprobar experimentalmente el análisis de mallas.
 
 ### 2.Marco Teorico 
 
+![image](https://user-images.githubusercontent.com/84418933/122088933-dfb26e00-cdcb-11eb-83af-267b1e551188.png)
+
 ### 3.Explicacion
 
 ***3.1 Material y equipo requerido***
@@ -80,6 +82,12 @@ _Sistema de ecuaciones_
 
 ### Conclusiones
 
+_*Al realizar el análisis de malla al circuito, identificamos cada componente y sus partes, y separando cada malla observamos que nos facilita la obtención los resultados del circuito._
+
+_*Al comparar los resultados obtenidos concluimos que la aplicación correcta del análisis de mallas en el circuito es fundamental al momento de medir corrientes como en el circuito expuesto._
+
 ### Bibliografia 
+
+_Khan Academy. (s. f.). El método de la corriente de malla (artículo). Recuperado 15 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method._
 
 
