@@ -1,4 +1,8 @@
-# Informe de laborario N2
+
+![image](https://user-images.githubusercontent.com/85728185/121997257-b19f4080-cd6f-11eb-8ffd-a2c122a52be5.png)
+
+## Infomrme de laboratorio N2
+
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
 
