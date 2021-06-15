@@ -1,1 +1,1 @@
-# Infome_2
+# Informe 2
