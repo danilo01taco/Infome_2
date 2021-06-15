@@ -14,7 +14,7 @@ Comprobar experimentalmente el análisis de mallas.
 
 ***Objetivos especificos***
 
-*Analizar las corrientes que pasan por cada malla.
+*Analizar las corrientes que pasan por cada malla..
 
 *Determinar los valores medidos en el simulador que sean los correctos para realizar los cálculos.
 
