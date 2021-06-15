@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/85728185/121998054-e2cc4080-cd70-11eb-8c9c-eebefc1e4de7.png)
 
-## ANÁLISIS DE MALLAS
+## Informe de Laboratoio N2
 
 ### Fundamento de circuitos electricos
 ### Ingeniero  Darwin Omar Alulema Flores
@@ -84,8 +84,15 @@ _Como las resistencias las trabajamos en ohms nos da la medición en Amperios, p
 
 ![image](https://user-images.githubusercontent.com/85728185/122090656-9fec8600-cdcd-11eb-86c2-a92840acf23b.png)
 
-
 ### 4.Resultados
+
+![image](https://user-images.githubusercontent.com/85728185/122092206-45ecc000-cdcf-11eb-8934-f12f776f1aa0.png)
+ 
+***Calculo  de error**
+
+![image](https://user-images.githubusercontent.com/85728185/122092595-b7c50980-cdcf-11eb-9009-06a98e204255.png)
+
+![image](https://user-images.githubusercontent.com/85728185/122093443-b3e5b700-cdd0-11eb-8ecc-08067f460a4a.png)
 
 ### Video
 
