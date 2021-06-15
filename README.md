@@ -20,7 +20,7 @@ Comprobar experimentalmente el análisis de mallas.
 
 *Desarrollar el circuito propuesto analizando correctamente cada elemento aplicando así conocimientos sobre Análisis de Mallas.
 
-*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito.
+*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito..
 
 *Comparar los resultados de la tabla identificado si existe o no variacion entre los valores expuestos.
 
