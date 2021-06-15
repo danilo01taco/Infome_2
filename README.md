@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/85728185/121997675-5752af80-cd70-11eb-963a-8649e740a0f0.png)
+![image](https://user-images.githubusercontent.com/85728185/121997791-89641180-cd70-11eb-9b71-b8a722b1b3bc.png)
 
 ## Infomrme de laboratorio N2
 
