@@ -10,7 +10,7 @@
 ### 1.Objetivos
 ***Objetivo general de la practica***
 
-Comprobar correctamente
+Comprobar experimentalmente el análisis de mallas.
 
 ***Objetivos especificos***
 
@@ -78,5 +78,4 @@ _Una vez ya tomado en cuenta las diferentes corrientes de las mallas del circuit
 
 ### Bibliografia 
 
-### Repositorio Git
 
