@@ -10,6 +10,8 @@
 ### 1.Objetivos
 ***Objetivo general de la practica***
 
+Comprobar correctamente
+
 ***Objetivos especificos***
 
 *Analizar las corrientes que pasan por cada malla
