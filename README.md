@@ -18,6 +18,9 @@ _*Desarrollar el circuito propuesto analizando correctamente cada elemento aplic
 
 _*Componer las tablas propuestas mediante el análisis al circuito evaluando cada componente existente en dicho circuito._
 
+_*Comparar los resultados de la tabla identificado si existe o no variacion entre los valores expuestos._
+
+
 ### 2.Marco Teorico 
 
 ![image](https://user-images.githubusercontent.com/84418933/122082303-83e4e680-cdc5-11eb-921c-850abc62867d.png)
