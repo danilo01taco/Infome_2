@@ -15,7 +15,7 @@
 
 ***3.1 Material y equipo requerido***
 
-![image](https://user-images.githubusercontent.com/85728185/121991298-fffb1200-cd64-11eb-82da-1ea825303fdb.png)
+![image](https://user-images.githubusercontent.com/85728185/121991388-3173dd80-cd65-11eb-9321-160540998d26.png)
 
 ### 4.Resultados
 
