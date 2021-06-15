@@ -19,7 +19,7 @@
 
 ***3.2 Procedimineto***
 
-_ 3.2.1 Implemente el circuito que se presenta en la figura 2.1._
+_3.2.1 Implemente el circuito que se presenta en la figura 2.1._
 
 ![image](https://user-images.githubusercontent.com/85728185/121991666-c24ab900-cd65-11eb-93ad-be6823ad0597.png)
 
