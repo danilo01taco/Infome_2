@@ -34,7 +34,9 @@ _3.2.3 Simule en el software Multisim, Proteus o cualquier otro simulador el cir
 
 ![image](https://user-images.githubusercontent.com/85728185/121996973-2a51cd00-cd6f-11eb-9759-7cd39039d414.png)
 
-_3.2.4 Compare los valores de la tabla  y realice sus conclusiones_
+_3.2.4 Compare los valores de la tabla  y realice sus conclusiones__
+
+![image](https://user-images.githubusercontent.com/85728185/122001334-ce3e7700-cd75-11eb-8d73-76d79915dcfa.png)
 
 ### 4.Resultados
 
