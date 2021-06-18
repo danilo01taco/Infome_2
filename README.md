@@ -108,4 +108,6 @@ _*Al comparar los resultados obtenidos concluimos que la aplicación correcta de
 
 _Khan Academy. (s. f.). El método de la corriente de malla (artículo). Recuperado 15 de junio de 2021, de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method._
 
+2
+
 
